@@ -1,0 +1,5 @@
+{
+  "host": "http://127.0.0.1:3000",
+  "dbURI": "mongodb://nblogadmin:sameoldsaysmahon@ds237808.mlab.com:37808/mynblogdb",
+  "sessionSecret": "tonijesmesnodaznas"
+}
